@@ -5,4 +5,5 @@
 Overview
 
 compass watch file :windows
-sassの設定ファイルが有るところでファイルを起動することで監視されます。
+
+_compass.batをsassの設定ファイルが有るところでファイルを起動することでcompassを監視します。
